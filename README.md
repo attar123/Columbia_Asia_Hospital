@@ -2,6 +2,8 @@
 
 # Objective: 
 To explore patient behavior, departmental performance, and financial insights—ultimately enabling smarter, data-driven healthcare decisions.
+<img width="1301" height="733" alt="bi3" src="https://github.com/user-attachments/assets/3b566b30-3863-4728-802e-5c1e359c07c2" />
+
 
 # Insights Discovered
 
@@ -25,3 +27,5 @@ To explore patient behavior, departmental performance, and financial insights—
 • Seasonal Resource Planning: Suggested scheduling and staffing changes to manage seasonal visit peaks effectively.
 
 • Departmental Investments: Proposed boosting capacity in top-performing units for better service delivery and profitability.
+
+
