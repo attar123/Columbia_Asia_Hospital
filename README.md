@@ -32,4 +32,11 @@ A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data
 
 • Departmental Investments: Proposed boosting capacity in top-performing units for better service delivery and profitability.
 
+# Conclusion
+1. Improved Operational Efficiency: Data-driven insights helped identify bottlenecks and streamline processes like staffing and patient routing.
 
+2. Enhanced Patient Experience: Key factors such as wait times and demographics were analyzed to tailor services and improve satisfaction.
+
+3. Strategic Resource Allocation: Highlighted areas for targeted investments and seasonal planning to better manage demand and maximize returns.
+
+4. Power BI Proficiency: Demonstrated advanced use of Power Query, DAX, and interactive dashboards to support informed decision-making in healthcare.
