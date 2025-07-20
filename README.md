@@ -2,7 +2,8 @@
 
 # Objective: 
 To explore patient behavior, departmental performance, and financial insights—ultimately enabling smarter, data-driven healthcare decisions.
-<img width="1301" height="733" alt="bi3" src="https://github.com/user-attachments/assets/3b566b30-3863-4728-802e-5c1e359c07c2" />
+<img width="1300" height="731" alt="bi1" src="https://github.com/user-attachments/assets/fc52fd91-60e4-46ae-8900-456dd78bd606" />  <img width="1305" height="733" alt="bi2" src="https://github.com/user-attachments/assets/41e03c67-0350-4780-adab-f6914ce1e85a" />
+
 
 
 # Insights Discovered
