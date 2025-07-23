@@ -11,15 +11,11 @@ A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data
 
 ## Insights Discovered
 
-1. Revenue and Department Trends: Analyzed department-wise earnings, revealing top contributors and areas needing attention.
-
-2. Wait Time and Satisfaction: Found strong links between long wait times and lower satisfaction, especially in peak-hour services.
-   
-3. Patient Demographics: Identified usage patterns by age group to support better service planning and personalized care.
-
-4. Seasonal Visit Patterns: Observed consistent spikes in patient visits during specific months, highlighting predictable demand surges.
-
-5. Department Based Traffic: Tracked how patients are routed to departments, identifying high-traffic pathways.
+1. Revenue and Department Trends: Analyzed department-wise earnings, revealing top contributors and areas needing attention.<br/>
+2. Wait Time and Satisfaction: Found strong links between long wait times and lower satisfaction, especially in peak-hour services.<br/> 
+3. Patient Demographics: Identified usage patterns by age group to support better service planning and personalized care.<br/>
+4. Seasonal Visit Patterns: Observed consistent spikes in patient visits during specific months, highlighting predictable demand surges.<br/>
+5. Department Based Traffic: Tracked how patients are routed to departments, identifying high-traffic pathways.<br/>
 
 ## Strategic Solutions Proposed
 • Doctor Shift Realignment: Adjusted shift plans in high-traffic areas to reduce wait times and optimize staff workload.
