@@ -1,38 +1,87 @@
-# Columbia_Asia_Hospital
+# 🏥 Columbia Asia Hospital Power BI Analysis
 
-## Objective: 
+## 🎯 Objective  
 To explore patient behavior, departmental performance, and financial insights—ultimately enabling smarter, data-driven healthcare decisions.
 
-## Project Overview:
-A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data, focusing on patient behavior, departmental performance, and financial trends. The analysis uncovered key insights such as seasonal visit spikes, the impact of wait times on satisfaction, and department-wise revenue patterns. Strategic solutions were proposed, including doctor shift realignment, smart discounting, and targeted patient engagement. Power BI tools like Power Query, DAX, and dashboards were used to develop data-driven insights. The project highlights how analytics can transform healthcare operations for improved efficiency and care quality.
+---
 
+## 📊 Project Overview  
+A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data, focusing on:
 
-<img width="1300" height="731" alt="bi1" src="https://github.com/user-attachments/assets/fc52fd91-60e4-46ae-8900-456dd78bd606" />  <img width="1305" height="733" alt="bi2" src="https://github.com/user-attachments/assets/41e03c67-0350-4780-adab-f6914ce1e85a" />  <img width="1301" height="733" alt="bi3" src="https://github.com/user-attachments/assets/03dc6ee7-bf12-4a89-9880-51c1d9f41635" />
+- Patient behavior  
+- Departmental performance  
+- Financial trends  
 
-## Insights Discovered
+The analysis revealed key insights such as seasonal visit spikes, the impact of wait times on satisfaction, and department-wise revenue patterns.  
 
-1. Revenue and Department Trends: Analyzed department-wise earnings, revealing top contributors and areas needing attention.<br/>
-2. Wait Time and Satisfaction: Found strong links between long wait times and lower satisfaction, especially in peak-hour services.<br/> 
-3. Patient Demographics: Identified usage patterns by age group to support better service planning and personalized care.<br/>
-4. Seasonal Visit Patterns: Observed consistent spikes in patient visits during specific months, highlighting predictable demand surges.<br/>
-5. Department Based Traffic: Tracked how patients are routed to departments, identifying high-traffic pathways.<br/>
+✅ **Tools Used:**  
+- Power Query  
+- DAX   
 
-## Strategic Solutions Proposed
-• Doctor Shift Realignment: Adjusted shift plans in high-traffic areas to reduce wait times and optimize staff workload.
+🚀 **Outcomes:**  
+Strategic solutions were proposed, including doctor shift realignment, smart discounting, and targeted patient engagement. This project showcases how analytics can transform healthcare operations to improve both efficiency and care quality.
 
-• Smart Discounting: Designed data-informed discount strategies to improve patient retention without sacrificing revenue.
+---
 
-• Targeted Engagement: Recommended demographic-based outreach to better serve key patient segments.
+## 🖼️ Dashboards Images
 
-• Seasonal Resource Planning: Suggested scheduling and staffing changes to manage seasonal visit peaks effectively.
+<img width="1300" height="731" alt="bi1" src="https://github.com/user-attachments/assets/fc52fd91-60e4-46ae-8900-456dd78bd606" />  
+<img width="1305" height="733" alt="bi2" src="https://github.com/user-attachments/assets/41e03c67-0350-4780-adab-f6914ce1e85a" />  
+<img width="1301" height="733" alt="bi3" src="https://github.com/user-attachments/assets/03dc6ee7-bf12-4a89-9880-51c1d9f41635" />
 
-• Departmental Investments: Proposed boosting capacity in top-performing units for better service delivery and profitability.
+---
 
-## Conclusion
-1. Improved Operational Efficiency: Data-driven insights helped identify bottlenecks and streamline processes like staffing and patient routing.
+## 🔍 Insights Discovered  
 
-2. Enhanced Patient Experience: Key factors such as wait times and demographics were analyzed to tailor services and improve satisfaction.
+1. **Revenue & Department Trends**  
+   - Identified top revenue-generating departments and those needing operational focus.
 
-3. Strategic Resource Allocation: Highlighted areas for targeted investments and seasonal planning to better manage demand and maximize returns.
+2. **Wait Time vs. Satisfaction**  
+   - Strong inverse correlation between wait times and patient satisfaction during peak hours.
 
-4. Power BI Proficiency: Demonstrated advanced use of Power Query, DAX, and interactive dashboards to support informed decision-making in healthcare.
+3. **Patient Demographics**  
+   - Usage patterns segmented by age helped personalize services.
+
+4. **Seasonal Visit Patterns**  
+   - Detected consistent spikes during specific months indicating predictable surges.
+
+5. **Department Traffic Flow**  
+   - Mapped high-traffic pathways and departmental transitions.
+
+---
+
+## 🧩 Strategic Solutions Proposed
+
+- **Doctor Shift Realignment**  
+  Optimize staffing schedules in high-traffic departments to reduce wait times.
+
+- **Smart Discounting**  
+  Implement data-backed discounts to enhance retention without revenue loss.
+
+- **Targeted Patient Engagement**  
+  Personalized communication strategies based on demographic trends.
+
+- **Seasonal Resource Planning**  
+  Allocate resources effectively during predictable demand spikes.
+
+- **Departmental Investments**  
+  Invest in high-performing units for enhanced service and profitability.
+
+---
+
+## ✅ Conclusion
+
+1. **Improved Operational Efficiency**  
+   Identified process bottlenecks and optimized staffing & routing.
+
+2. **Enhanced Patient Experience**  
+   Services were tailored using demographic and behavioral insights.
+
+3. **Strategic Resource Allocation**  
+   Enabled smarter planning based on peak periods and department performance.
+
+4. **Power BI Proficiency Demonstrated**  
+   Applied advanced Power BI tools (Power Query, DAX, dashboards) to drive decision-making.
+
+---
+
