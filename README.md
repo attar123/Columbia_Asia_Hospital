@@ -1,15 +1,15 @@
 # Columbia_Asia_Hospital
 
-# Objective: 
+## Objective: 
 To explore patient behavior, departmental performance, and financial insights—ultimately enabling smarter, data-driven healthcare decisions.
 
-# Project Overview:
+## Project Overview:
 A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data, focusing on patient behavior, departmental performance, and financial trends. The analysis uncovered key insights such as seasonal visit spikes, the impact of wait times on satisfaction, and department-wise revenue patterns. Strategic solutions were proposed, including doctor shift realignment, smart discounting, and targeted patient engagement. Power BI tools like Power Query, DAX, and dashboards were used to develop data-driven insights. The project highlights how analytics can transform healthcare operations for improved efficiency and care quality.
 
 
 <img width="1300" height="731" alt="bi1" src="https://github.com/user-attachments/assets/fc52fd91-60e4-46ae-8900-456dd78bd606" />  <img width="1305" height="733" alt="bi2" src="https://github.com/user-attachments/assets/41e03c67-0350-4780-adab-f6914ce1e85a" />  <img width="1301" height="733" alt="bi3" src="https://github.com/user-attachments/assets/03dc6ee7-bf12-4a89-9880-51c1d9f41635" />
 
-# Insights Discovered
+## Insights Discovered
 
 1. Revenue and Department Trends: Analyzed department-wise earnings, revealing top contributors and areas needing attention.
 
@@ -21,7 +21,7 @@ A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data
 
 5. Department Based Traffic: Tracked how patients are routed to departments, identifying high-traffic pathways.
 
-# Strategic Solutions Proposed
+## Strategic Solutions Proposed
 • Doctor Shift Realignment: Adjusted shift plans in high-traffic areas to reduce wait times and optimize staff workload.
 
 • Smart Discounting: Designed data-informed discount strategies to improve patient retention without sacrificing revenue.
@@ -32,7 +32,7 @@ A comprehensive Power BI analysis was conducted on Columbia Asia Hospital's data
 
 • Departmental Investments: Proposed boosting capacity in top-performing units for better service delivery and profitability.
 
-# Conclusion
+## Conclusion
 1. Improved Operational Efficiency: Data-driven insights helped identify bottlenecks and streamline processes like staffing and patient routing.
 
 2. Enhanced Patient Experience: Key factors such as wait times and demographics were analyzed to tailor services and improve satisfaction.
